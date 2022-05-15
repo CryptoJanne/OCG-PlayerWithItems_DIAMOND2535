@@ -1,0 +1,7 @@
+__pycache__
+plan.md
+.env
+.history
+.hypothesis/
+build/
+reports/
